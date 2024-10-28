@@ -13,7 +13,7 @@ git clone https://github.com/Gameye98/Lazymux
 cd Lazymux
 ```
 ```
-python2 lazymux.py
+python lazymux.py
 ```
 
 ## Donation
